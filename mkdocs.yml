@@ -1,0 +1,35 @@
+site_name: Sutton SignWriting
+site_url: https://www.sutton-signwriting.io/
+site_description: a website of information and resources about the Sutton SignWriting script
+site_author: Steve Slevinski
+
+repo_url: https://github.com/sutton-signwriting/
+edit_uri: ""
+
+theme:
+    name: mkdocs
+    locale: en
+    highlightjs: true
+    hljs_languages:
+        - yaml
+    custom_dir: docs/custom/
+
+nav:
+    - Home: 'index.md'
+    - Subdomains: 'subdomains.md'
+    - Sponsors: 'sponsors.md'
+
+extra_css:
+    - css/extra.css
+
+markdown_extensions:
+    - toc:
+        permalink: 
+    - admonition
+    - attr_list
+    - def_list
+    - mdx_gh_links:
+        user: sutton-signwriting
+        repo: sutton-signwriting
+
+copyright: Copyright &copy; 2022 <a href="https://steveslevinski.me">Steve Slevinski</a>.<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br /><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>

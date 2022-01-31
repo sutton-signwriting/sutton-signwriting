@@ -1,0 +1,32 @@
+{
+  "name": "@sutton-signwriting/sutton-signwriting",
+  "description": "a website of information and resources about the Sutton SignWriting script",
+  "version": "1.0.0",
+  "license": "CC BY 4.0",
+  "author": {
+    "name": "Steve Slevinski",
+    "url": "https://steve.signwriting.org",
+    "email": "slevinski@signwriting.org"
+  },
+  "homepage": "https://www.sutton-signwriting.io/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sutton-signwriting/sutton-signwriting.git"
+  },
+  "bugs": "https://github.com/sutton-signwriting/sutton-signwriting/issues",
+  "keywords": [
+    "Sutton",
+    "SignWriting",
+    "sign language"
+  ],
+  "files": [
+    "/site/*"
+  ],
+  "scripts": {
+    "start": "mkdocs serve",
+    "build": "mkdocs build -c",
+    "postbuild": "cp docs/img/favicon.ico site/img/favicon.ico",
+    "deploy": "mkdocs build -c -d ../sutton-signwriting.github.io",
+    "postdeploy": "cp docs/img/favicon.ico ../sutton-signwriting.github.io/img/favicon.ico"
+  }
+}
