@@ -37,12 +37,12 @@ www.Sutton-SignWriting.io is a website of information and resources about the Su
 The Formal SignWriting specification is a faithful encoding of Sutton SignWriting that is documented in an Internet Draft submitted to the IETF.
 
 <div>
-<a href="https://www.ietf.org/archive/id/draft-slevinski-formal-signwriting-08.txt" class="btn btn-primary" role="button">Text</a>
-<a href="https://www.ietf.org/archive/id/draft-slevinski-formal-signwriting-08.html" class="btn btn-primary" role="button">HTML</a>
-<a href="https://www.ietf.org/archive/id/draft-slevinski-formal-signwriting-08.xml" class="btn btn-primary" role="button">XML</a>
-<a href="https://tools.ietf.org/pdf/draft-slevinski-formal-signwriting-08.pdf" class="btn btn-primary" role="button">PDF</a>
-<a href="https://datatracker.ietf.org/doc/html/draft-slevinski-formal-signwriting-08" class="btn btn-primary" role="button">HTMLized</a>
-<a href="https://datatracker.ietf.org/doc/draft-slevinski-formal-signwriting/08/bibtex" class="btn btn-primary" role="button">Bibtex</a>
+<a href="https://www.ietf.org/archive/id/draft-slevinski-formal-signwriting-09.txt" class="btn btn-primary" role="button">Text</a>
+<a href="https://www.ietf.org/archive/id/draft-slevinski-formal-signwriting-09.html" class="btn btn-primary" role="button">HTML</a>
+<a href="https://www.ietf.org/archive/id/draft-slevinski-formal-signwriting-09.xml" class="btn btn-primary" role="button">XML</a>
+<a href="https://tools.ietf.org/pdf/draft-slevinski-formal-signwriting-09.pdf" class="btn btn-primary" role="button">PDF</a>
+<a href="https://datatracker.ietf.org/doc/html/draft-slevinski-formal-signwriting-09" class="btn btn-primary" role="button">HTMLized</a>
+<a href="https://datatracker.ietf.org/doc/draft-slevinski-formal-signwriting/09/bibtex" class="btn btn-primary" role="button">Bibtex</a>
 </div>
 
 ---
@@ -63,7 +63,7 @@ the two sets.
 
 
 <div>
-<a href="https://www.ietf.org/archive/id/draft-slevinski-formal-signwriting-08.html#name-characters" class="btn btn-primary" role="button">Character Sets</a>
+<a href="https://www.ietf.org/archive/id/draft-slevinski-formal-signwriting-09.html#name-characters" class="btn btn-primary" role="button">Character Sets</a>
 <a href="https://steveslevinski.me/demo/fsw.html" class="btn btn-primary" role="button">FSW Demo</a>
 <a href="https://slevinski.github.io/SuttonSignWriting/characters/symbols.html#?ui=en&set=fsw" class="btn btn-primary" role="button">FSW Symbols</a>
 <a href="https://steveslevinski.me/demo/swu.html" class="btn btn-primary" role="button">SWU Demo</a>
