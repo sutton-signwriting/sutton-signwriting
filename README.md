@@ -13,7 +13,8 @@ The site is built using [MkDocs](https://www.mkdocs.org/) and served from the [s
 To create the documentation website, you need to install mkdocs and npm.
 
 ``` bash
-sudo apt install mkdocs
+pip install mkdocs mdx_gh_links
+
 sudo apt install npm
 ```
 

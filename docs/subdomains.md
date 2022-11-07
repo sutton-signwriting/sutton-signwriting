@@ -1,7 +1,8 @@
 # Subdomains
 <div>
-<a href="https://sutton-signwriting.io/" disabled class="btn btn-primary disabled" role="button">Apex Domain</a>
+<a href="https://sutton-signwriting.io/" class="btn btn-primary disabled" role="button">Apex Domain</a>
 <a href="https://www.sutton-signwriting.io/" class="btn btn-primary" role="button">www</a>
+<a href="https://donate.sutton-signwriting.io/" class="btn btn-primary" role="button">donate</a>
 <a href="https://token.sutton-signwriting.io/" disabled class="btn btn-primary disabled" role="button">token</a>
 <a href="https://cloud.sutton-signwriting.io/" disabled class="btn btn-primary disabled" role="button">cloud</a>
 <a href="https://archive.sutton-signwriting.io/" disabled class="btn btn-primary disabled" role="button">archive</a>
@@ -11,8 +12,9 @@
 
 | Subdomain  | Purpose            | Status                   |
 |:-----------|:-------------------|:-------------------------|
-|            | Apex Domain        | Not configured           |
+|            | Apex Domain        | Forward to www subdomain |
 | www        | Static Information | Live using github pages  |
+| donate     | Accept Donations   | Secure payment by square |
 | token      | Authentication     | Under Development        |
 | cloud      | Data Services      | Under Development        |
 | archive    | Data Archives      | Under Development        |
